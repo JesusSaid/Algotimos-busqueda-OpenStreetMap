@@ -1,5 +1,5 @@
 # OpenStreetMap
-Diversas estrategias de busqueda
+Diversas estrategias de búsqueda
 
 ## Biblioteca
 OSMNX
