@@ -1,8 +1,8 @@
 # OpenStreetMap
-_Diversas estrategias de busqueda
+Diversas estrategias de busqueda
 
 ## Biblioteca
-_OSMNX
+OSMNX
 ```
 python -m pip install osmnx
 ```
