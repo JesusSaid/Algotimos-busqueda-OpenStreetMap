@@ -1,2 +1,8 @@
-<h1>OpenStreetMap</h1>
-<p>Diversas estrategias de busqueda</p>
+# OpenStreetMap
+_Diversas estrategias de busqueda
+
+## Biblioteca
+_OSMNX
+```
+python -m pip install osmnx
+```
